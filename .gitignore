@@ -1,0 +1,11 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+
+.flickr_api_credentials.json
+.flickr_tokens.json
+upload_manifest.json
+upload_manifest.validation.json
+upload_state.json
+upload_reports/
